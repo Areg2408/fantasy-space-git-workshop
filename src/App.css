@@ -5,6 +5,16 @@
   text-align: center;
 }
 
+.app-header {
+  margin-bottom: 1.5rem;
+}
+
+.app-header h2 {
+  margin: 0;
+  font-size: 1.6rem;
+  letter-spacing: 0.02em;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
