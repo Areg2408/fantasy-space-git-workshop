@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+
+.app-footer {
+  margin-top: 2.5rem;
+  font-size: 0.9rem;
+  color: #777;
+}
